@@ -1,0 +1,4 @@
+#Mon Jul 15 00:15:12 ICT 2019
+base.0=E\:\\Giao Dien Android\\Widgets-master\\Widgets-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
